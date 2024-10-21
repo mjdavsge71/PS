@@ -4,6 +4,7 @@
 # Import-Module VMware.PowerCLI
 
 # Variables for VM attributes
+$VMName = "VMHOSTNAME"
 $SvrRITM = "RITM1234566"
 $SvrRequester = "John Doe"
 $AppPOC = "John Doe"
